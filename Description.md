@@ -1,0 +1,3 @@
+- 👋 Hi, I'm Leo | @leoleplot ! I'm a developer from France !
+- 👀 I work a lot of projects, I mainly develop in C#, Lua & Python !
+- 📝 You can contact me on discord | leole_plot#6846 !
